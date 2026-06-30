@@ -665,7 +665,7 @@ export default function App() {
               </div>
 
               {/* Side Spec Details Panel (Right Column) */}
-              <div className="lg:col-span-4 rounded-2xl border border-slate-900 bg-slate-900/30 p-6 shadow-md h-fit space-y-5 sticky top-[72px]">
+              <div className="lg:col-span-4 rounded-2xl border border-slate-900 bg-slate-900/30 p-6 shadow-md h-fit space-y-5 lg:sticky lg:top-[72px]">
                 <div className="flex items-center gap-3 border-b border-slate-900 pb-4">
                   <span className="p-3 bg-slate-950 rounded-xl border border-slate-900 shadow-inner">
                     {getProjectIcon(selectedProject.name, "h-7 w-7")}
@@ -748,7 +748,7 @@ export default function App() {
           <div className="grid grid-cols-1 gap-6 lg:grid-cols-12 animate-fade-in">
             
             {/* Sandbox selection Sidebar (Left) */}
-            <div className="lg:col-span-3 space-y-1 bg-slate-900/30 rounded-2xl border border-slate-900 p-3 h-fit sticky top-[72px]">
+            <div className="lg:col-span-3 space-y-1 bg-slate-900/30 rounded-2xl border border-slate-900 p-3 h-fit lg:sticky lg:top-[72px]">
               <span className="text-[10px] font-extrabold text-slate-500 uppercase tracking-wider px-2.5 block mb-3.5">
                 Mounted Playgrounds
               </span>
