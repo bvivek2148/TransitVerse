@@ -2,7 +2,7 @@
 
 ### 🎓 NullClass Software Engineering Internship Capstone Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-TransitVerse%20Dashboard-6366f1?style=for-the-badge&logo=vercel)](https://ais-pre-okgkkzv2yhtkl7wfjt3qyi-1075374047446.asia-southeast1.run.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-TransitVerse%20Dashboard-6366f1?style=for-the-badge&logo=netlify)](https://transitverse.netlify.app/)
 [![Main Repository](https://img.shields.io/badge/GitHub-TransitVerse%20Source-indigo?style=for-the-badge&logo=github)](https://github.com/bvivek2148/-TransitVerse.git)
 [![Tasks Repository](https://img.shields.io/badge/GitHub-NullClass%20Tasks-emerald?style=for-the-badge&logo=github)](https://github.com/bvivek2148/NullClass-Tasks.git)
 
@@ -14,7 +14,7 @@ Rather than hosting ten separate, basic, or disconnected static prototypes, I en
 
 ## 🔗 Key Links & Repositories
 
-* **Live Web Application**: [https://ais-pre-okgkkzv2yhtkl7wfjt3qyi-1075374047446.asia-southeast1.run.app](https://ais-pre-okgkkzv2yhtkl7wfjt3qyi-1075374047446.asia-southeast1.run.app) *(Deploy of the active, responsive sandbox)*
+* **Live Web Application**: [https://transitverse.netlify.app/](https://transitverse.netlify.app/) *(Deploy of the active, responsive sandbox)*
 * **TransitVerse Platform Repository**: [https://github.com/bvivek2148/TransitVerse.git](https://github.com/bvivek2148/-TransitVerse.git) *(Hosts the unified React core, Recharts widgets, Express proxy routes, and the active modular simulators)*
 * **NullClass Tasks Archive**: [https://github.com/bvivek2148/NullClass-Tasks.git](https://github.com/bvivek2148/NullClass-Tasks.git) *(Standalone backup storage of individual modules, specifications, and project assets)*
 
